@@ -89,13 +89,13 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official DIVINE-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
 ### 🌊 GET SESSION ID
 <p align="center">
-  <a href="https://khanmd-pairx.onrender.com">
+  <a href="https://DIVINEMD-pairx.onrender.com">
     <img src="https://img.shields.io/badge/💫_PAIR_CODE_GENRATER-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
   </a>
 </p>
@@ -106,12 +106,12 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>DIVINE-MDBot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
 
-### 🔥 TRY KHAN MD MINI
-<!-- Cyber Red -->
+### 🔥 TRY DIVINE MD MINI
+<!-- Cyber Blue-->
 <p align="center">
   <a href="https://khan-mdx.vercel.app">
     <img src="https://img.shields.io/badge/🚀_START_KHAN_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="DIVINE MDMini Cyber Red"/>
@@ -130,15 +130,15 @@
     </tr>
     <tr>
       <!-- Koyeb -->
-      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/JawadExtra/DIVINEMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TAV/DIVINEMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <!-- Railway -->
       <td><a href="https://railway.app/new/template?template=https://github.com/DIVINETECH" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <!-- Render (Purple and blue color theme) -->
-      <td><a href="https://render.com/deploy?repo=https://github.com/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
+      <td><a href="https://render.com/deploy?repo=https://github.com/DIVINE" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
       <!-- Netlify -->
-      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/DIVINE" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
@@ -147,7 +147,7 @@
 
 <table align="center">
     <td align="center">
-      <a href="https://github.com/JawadExtra/KHANXMD/archive/refs/heads/main.zip" target="_blank">
+      <a href="https://github.com/DIVINE/archive/refs/heads/main.zip" target="_blank">
         <img alt="Download ZIP" src="https://img.shields.io/badge/DOWNLOAD_ZIP-For_Panel-AB82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0F0529"/>
       </a>
     </td>
