@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=DIVINE%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=DIVINE%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Divine%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
 <div style="
   margin-top: -60px;
@@ -18,22 +18,22 @@
     0 0 36px #d896ff,
     0 0 48px #ab47bc;
   padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Jawad TechX
+"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by DIVINE TAV TECH 
 </div>
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_DIVINE--MD_INSIGHTS_✨-blue?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/KHAN-MD&link=https://github.com/DIVINE-MD" />
+  <img src="https://img.shields.io/badge/-✨_DIVINE--MD_INSIGHTS_✨-blue?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/DIVINE-MD&link=https://github.com/DIVINE-MD" />
 </h1>
 </p>
 </p>
     <img src="https://komarev.com/ghpvc/?username=DIVINETAVAYATECHYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadTechYT/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/JawadTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
-    <img src="https://img.shields.io/github/followers/JawadTechYT?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/forks/DIVINE-MD?style=flat&color=1E88E5&logo=github&logoColor=Green&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/followers/DIVINETAVTECH?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/JawadTechYT/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/JawadTechYT/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
-    <img src="https://img.shields.io/github/package-json/v/JawadTechYT/KHAN-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
+    <img src="https://img.shields.io/github/package-json/DIVINE-MD?style=flat&color=F57C00&logo=npm&logoColor=white&label=Version" alt="Package Version" />
   </p>
   
 </div>
@@ -45,7 +45,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.comDIVINETechXD/refs/heads/main/DIVINEMD.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ***
@@ -65,7 +65,7 @@
 
   <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 4px solid #ff00ff;">
     <p style="color: #00ffff; font-size: 16px;">🚀 First, star & fork the repo using the button below:</p>
-    <a href='https://github.com/JawadTechYT/KHAN-MD/fork' target="_blank">
+    <a href='https://github.com/DIVINETECH/fork' target="_blank">
       <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
     </a>
   </div>
@@ -114,7 +114,7 @@
 <!-- Cyber Red -->
 <p align="center">
   <a href="https://khan-mdx.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_START_KHAN_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="KHAN MD Mini Cyber Red"/>
+    <img src="https://img.shields.io/badge/🚀_START_KHAN_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="DIVINE MDMini Cyber Red"/>
   </a>
 </p>
 
@@ -122,20 +122,20 @@
   <table>
     <tr>
       <!-- Heroku (with rocket logo on left) -->
-      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/JawadExtra/KHANXMD" target="_blank">
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/DIVINE MD" target="_blank">
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a></td>
       <!-- Replit -->
-      <td><a href="https://replit.com/github/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://replit.com/github/DIVINEMD" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <!-- Koyeb -->
-      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/JawadExtra/DIVINEMD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
       <!-- Railway -->
-      <td><a href="https://railway.app/new/template?template=https://github.com/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://railway.app/new/template?template=https://github.com/DIVINETECH" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <!-- Render (blue color theme) -->
+      <!-- Render (Purple and blue color theme) -->
       <td><a href="https://render.com/deploy?repo=https://github.com/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
       <!-- Netlify -->
       <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/JawadExtra/KHANXMD" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
@@ -159,10 +159,10 @@
 
 ---
 
-## KHAN-MD FEATURES
+## DIVINE MD FEATURES
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/khanmd&query=$.features_count&suffix=%20Active" alt="Features"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=purple&label=Features&style=for-the-badge&url=https://api.example.com/divinemd&query=$.features_count&suffix=%20Active" alt="Features"/>
 </p>
 </div>
 
@@ -193,7 +193,7 @@
 📢 Get updates, fixes, and sneak peeks directly from the official channel.
 </p>
 
-<a href="https://whatsapp.com/channel/0029Vb8ux0L8kyyHPResdY1W" target="_blank">
+<a href="https:/[/](https://whatsapp.com/channel/0029Vb7oMyh7DAWvTQ0UJf1r)" target="_blank">
   <img src="https://img.shields.io/badge/JOIN_CHANNEL-NOW-8A2BE2?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=111111" alt="Join WhatsApp Channel"/>
 </a>
 
@@ -202,13 +202,13 @@
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
+🧾 PROJECT STATS DIVINE-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 
-<a href="https://github.com/JawadTechYT" target="_blank">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JawadTechYT&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+<a href="https://github.com/DIVINE-TAVAYA" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DIVINETAV&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
 </a>
 
 </div>
@@ -218,7 +218,7 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechX (Official Creator)</p>
+DIVINETAVB.DYZ (Official Creator)</p>
 
 ---
 
@@ -274,5 +274,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/JawadTechYT">JawadTechX</a>
-</p>
+  Made with ❤️ DIVINETAV
+</p
